@@ -58,7 +58,7 @@ The Women Safety App aligns with key SDGs to drive positive change:
 
 ## 💻 Technical Stack
 * **Frontend:** React with Tailwind CSS and shadcn/ui
-* **Backend:** Node.js with custom authentication
+* **Backend:** Next.js with custom authentication
 * **Storage:** MongoDB
 * **APIs & Services:** Geolocation, AI-powered chatbot, and real-time alert systems
 
